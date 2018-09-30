@@ -2,6 +2,8 @@
 layout: post
 title:  "Macbook Update Fail"
 date:   2018-05-29 16:16:01 -0600
+description: A brief history of trying to update a Macbook Pro.
+tags: apple
 ---
 
 Family members do not hesitate to ask me for help with their IT problems.  It can be anything.  I've helped my in-laws upgrade their computer.  I've also video chatted with others trying to help them find a hidden HDMI port on a television.  I don't really mind helping.  I like to help people.  Often times I see it as a challenge - me versus the machine.
